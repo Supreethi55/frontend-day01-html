@@ -14,7 +14,6 @@ This repository contains my Day 01 frontend development practice.
 1. Resume Webpage
 2. Registration Form
 3. College Event Page
-g
 ## Technologies Used
 - HTML5
 - VS Code
