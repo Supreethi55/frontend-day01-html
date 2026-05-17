@@ -1,0 +1,9 @@
+HTML creats website structure
+tags:
+h1-h6->headings
+p->paragraphs
+a->links
+img->images
+li->list 
+ul->unordred list
+ol->ordered list
