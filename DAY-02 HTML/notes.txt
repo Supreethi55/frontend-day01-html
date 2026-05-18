@@ -1,0 +1,15 @@
+tables in html:
+Tag	            Purpose
+table	        Creates table
+tr	            Table row
+th	            Table heading
+td	            Table data
+
+dryrun for the table.html prog
+browser reads:
+1.create table
+2.create row
+3.Add headings
+4.Add Student data
+5.Render table
+

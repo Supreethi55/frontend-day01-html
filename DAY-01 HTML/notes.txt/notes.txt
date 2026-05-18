@@ -7,3 +7,44 @@ img->images
 li->list 
 ul->unordred list
 ol->ordered list
+Interview questions and answers
+
+what is HTML?
+HTML stands for Hypertext Markup Language.
+It is used to create the structure of webpages
+
+what is semantic HTML?
+Semantic html uses meaningful tags like 
+header
+nav
+section
+footer
+it improves SEO,accessibility,readability.
+
+Difference between Div ana span?
+Div                        span
+block element              inline element
+takes full width           takes reuired width
+
+what are forms?
+forms collect user data.
+ex:- login forms,signup forms,payment forms.
+
+what is difference between HTML and HTML5?
+HTML                        HTML5
+older version               modern version
+limited multimedia          supports audio/video
+
+what is  Doctype?
+<!DOCTYPE html>
+tells browser:"This document uses HTML5"
+
+What are Input Types?
+Examples:
+    text
+    email
+    password
+    number
+    radio
+    checkbox
+Used in forms.
